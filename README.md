@@ -1,14 +1,13 @@
-# DMA-full-space-analogue-hardware
-DMA full space analogue hardware
-If you want to share your learning and get help!
+## DMA Full Space Analogue Hardware
 
-JOIN MY discord https://discord.gg/xr4YF8cVx3
+This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. It has been successfully tested on platforms such as VGK FACEIT.
 
-This firmware implements base-space ratio coverage, device emulation, and extensive feature obfuscation.
+**Purpose of Open Source**: Following a leak by a customer, the firmware became widely distributed and resold. To address this, it has been made public. Note that once exposed, anti-cheat systems will likely detect the firmware's space, which may limit its future usability.
 
-It has been tested on many platforms such as VGK FACEIT!
+**Devices for Full Emulation**: Killer series network cards.
 
-The purpose of the open source is that one of my customers leaked it and made it widely available! It was even resold several times! That's why I made the firmware public, and the anti-cheat system will be able to characterise the firmware's space when it's made public! So after a while he will probably not be able to use it again!
+**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/xr4YF8cVx3).
+
 
 
 Devices for full emulation: network cards of the killer series
