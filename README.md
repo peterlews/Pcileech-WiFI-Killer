@@ -7,6 +7,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 **Devices for Full Emulation**: Killer series network cards.
 
 **Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/eNxtfFAXYM).
+A guy named Kilmu is using this model to make more money, and he's cheating a lot of agents out of a lot of money.
 
 There are a lot of scammers out there using open source programs~
 
