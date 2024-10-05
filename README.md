@@ -6,7 +6,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 **Devices for Full Emulation**: Killer series network cards.
 
-**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/xr4YF8cVx3).
+**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/qGKXR4ankv).
 
 
 
