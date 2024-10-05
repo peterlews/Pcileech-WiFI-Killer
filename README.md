@@ -10,6 +10,8 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 A guy named Kilmu is using this model to make more money, and he's cheating a lot of agents out of a lot of money.
 
+![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
+
 There are a lot of scammers out there using open source programs~They trick to cheat Chinese users
 
 Devices for full emulation: network cards of the killer series
