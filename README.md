@@ -15,7 +15,8 @@ A guy named Kilmu is using this model to make more money, and he's cheating a lo
 He asked me to explain for him that his agent wasn't lying.
 This is the request he sent me. He threatened me.
 He said he asked me to help him explain that he didn't scam other people
-now it's been proven that his agent scammed a lot of Chinese people, they like to scam those ignorant people
+now it's been proven that his agent scammed a lot of Chinese people
+they like to scam those ignorant people
 
 There are a lot of scammers out there using open source programs~They trick to cheat Chinese users
 
