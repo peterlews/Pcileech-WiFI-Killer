@@ -10,8 +10,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 A guy named Kilmu is using this model to make more money, and he's cheating a lot of agents out of a lot of money.
 
-There are a lot of scammers out there using open source programs~
-
+There are a lot of scammers out there using open source programs~They trick to cheat Chinese users
 
 Devices for full emulation: network cards of the killer series
 ![51mUbLqPzTL _AC_SL1500_](https://github.com/user-attachments/assets/d94e34b8-e667-4921-b315-cd5d0c62c7da)
