@@ -13,9 +13,13 @@ A guy named Kilmu is using this model to make more money, and he's cheating a lo
 ![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
 
 He asked me to explain for him that his agent wasn't lying.
+
 This is the request he sent me. He threatened me.
+
 He said he asked me to help him explain that he didn't scam other people
+
 now it's been proven that his agent scammed a lot of Chinese people
+
 they like to scam those ignorant people
 
 There are a lot of scammers out there using open source programs~They trick to cheat Chinese users
