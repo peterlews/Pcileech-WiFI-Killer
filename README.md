@@ -8,6 +8,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 **Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/eNxtfFAXYM).
 
+There are a lot of scammers out there using open source programs~
 
 
 Devices for full emulation: network cards of the killer series
