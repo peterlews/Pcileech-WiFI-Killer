@@ -16,11 +16,15 @@ He asked me to explain for him that his agent wasn't lying.
 
 This is the request he sent me. He threatened me.
 
-He said he asked me to help him explain that he didn't scam other people
+He said he asked me to help him explain that he didn't lie to other people
 
-now it's been proven that his agent scammed a lot of Chinese people
+Now it turns out his agent lied to a lot of Chinese people.
 
-they like to scam those ignorant people
+He's asking me to work for them or with them or he'll attack me.
+
+So I'm going to expose this
+
+They like to lie to the ignorant.
 
 There are a lot of scammers out there using open source programs~They trick to cheat Chinese users
 
