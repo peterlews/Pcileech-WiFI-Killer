@@ -1,4 +1,4 @@
-## DMA Full Space Analogue Hardware
+  ## DMA Full Space Analogue Hardware
 
 This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. It has been successfully tested on platforms such as VGK FACEIT.
 
@@ -6,7 +6,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 **Devices for Full Emulation**: Killer series network cards.
 
-**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/gZ4CfVUvR2).
+**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/q5g47GMp9B).
 
 A guy named Kilmu is using this model to make more money, and he's cheating a lot of agents out of a lot of money.
 
