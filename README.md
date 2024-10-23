@@ -21,7 +21,8 @@ Kilmu has threatened me, demanding that I help him convince others that his agen
 
 It's crucial to understand that there are numerous scammers in this space, preying on unsuspecting users. These individuals thrive on deception, using open-source programs to mislead and exploit others.
 
-I am committed to exposing these scams and protecting those who might be vulnerable to such tactics. If you have any information or experiences related to Kilmu and similar scams, please share them. Together, we can help prevent further exploitation.
+I am committed to exposing these scams and protecting those who might be vulnerable to such tactics. 
+If you have any information or experiences related to Kilmu and similar scams, please share them. Together, we can help prevent further exploitation.
 
 Stay vigilant and be cautious!
 ![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
