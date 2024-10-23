@@ -10,7 +10,12 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 **Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/q5g47GMp9B).
 
-
+| Name  | Status |
+|-------|--------|
+| ACE   | ✅     |
+| EAC   | ✅     |
+| BE    | ✅     |
+| VGK   | ✅     |
 
 
 ## Exposing Kilmu and His Scams
