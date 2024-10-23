@@ -1,4 +1,4 @@
-  ## DMA Full Space Analogue Hardware
+## DMA Full Space Analogue Hardware
 
 This firmware offers base-space ratio coverage, device emulation, and extensive feature obfuscation. It has been successfully tested on platforms such as VGK FACEIT.
 
@@ -6,27 +6,25 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 **Devices for Full Emulation**: Killer series network cards.
 
+**New Update**: We have modified a new IP core to support the detection of Delta games.
+
 **Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/q5g47GMp9B).
 
-A guy named Kilmu is using this model to make more money, and he's cheating a lot of agents out of a lot of money.
 
 ![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
 
-He asked me to explain for him that his agent wasn't lying.
+## Exposing Kilmu and His Scams
 
-This is the request he sent me. He threatened me.
+I want to bring attention to a serious issue involving a person named Kilmu, who has been exploiting open-source models to defraud agents and users, particularly targeting individuals in the Chinese community. 
 
-He said he wanted me to help him explain that he didn't lie to anyone
+Kilmu has threatened me, demanding that I help him convince others that his agent wasn't lying. In reality, his agent has cheated many people out of their money.
 
-Now it turns out that his agent cheated a lot of Chinese people out of their money.
+It's crucial to understand that there are numerous scammers in this space, preying on unsuspecting users. These individuals thrive on deception, using open-source programs to mislead and exploit others.
 
-He wants me to work for them or with them or he'll attack me.
+I am committed to exposing these scams and protecting those who might be vulnerable to such tactics. If you have any information or experiences related to Kilmu and similar scams, please share them. Together, we can help prevent further exploitation.
 
-So I'm going to expose this
+Stay vigilant and be cautious!
 
-They like to cheat ignorant people
-
-There are a lot of scammers out there using open source programs~They trick to cheat Chinese users
 
 Devices for full emulation: network cards of the killer series
 ![51mUbLqPzTL _AC_SL1500_](https://github.com/user-attachments/assets/d94e34b8-e667-4921-b315-cd5d0c62c7da)
