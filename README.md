@@ -8,7 +8,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 
 **New Update**: We have modified a new IP core to support the detection of Delta games.
 
-**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/q5g47GMp9B).
+**Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/F7N2JKCzDm).
 
 | Name  | Status |
 |-------|--------|
