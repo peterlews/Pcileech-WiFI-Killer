@@ -11,7 +11,7 @@ This firmware offers base-space ratio coverage, device emulation, and extensive 
 **Want to share your insights or seek assistance?** Join my [Discord community](https://discord.gg/q5g47GMp9B).
 
 
-![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
+
 
 ## Exposing Kilmu and His Scams
 
@@ -24,7 +24,7 @@ It's crucial to understand that there are numerous scammers in this space, preyi
 I am committed to exposing these scams and protecting those who might be vulnerable to such tactics. If you have any information or experiences related to Kilmu and similar scams, please share them. Together, we can help prevent further exploitation.
 
 Stay vigilant and be cautious!
-
+![Snipaste_2024-10-05_09-47-15](https://github.com/user-attachments/assets/b82e9c0c-c090-42aa-8223-7800f1a5daf4)
 
 Devices for full emulation: network cards of the killer series
 ![51mUbLqPzTL _AC_SL1500_](https://github.com/user-attachments/assets/d94e34b8-e667-4921-b315-cd5d0c62c7da)
